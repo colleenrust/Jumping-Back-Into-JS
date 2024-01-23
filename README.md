@@ -1,3 +1,6 @@
+# Trying something out
+I wanted to reaffliate myself with some React project buidling and this is a small tic tac toe game that declares a winner but that was just the beginning of this project. I hope to continue to make this app more dynamic in addition to more functions and general practice. Feel free to look around.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
